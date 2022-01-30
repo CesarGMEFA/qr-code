@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.text12 {
+    @apply leading-1.2 text-1.2;
+}
+
+.text15 {
+    @apply leading-1.5 text-paragraph;
+}
+
+.text18 {
+    @apply leading-18 text-18
+}
