@@ -4,7 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/with-tailwind-TvV5BlZEK](https://www.frontendmentor.io/solutions/with-tailwind-TvV5BlZEK)
 - Live Site URL: [https://cesarg-qr.netlify.app/](https://cesarg-qr.netlify.app/)
 
 ### Built with
